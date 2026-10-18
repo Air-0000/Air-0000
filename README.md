@@ -18,7 +18,7 @@
 
 ### 🌟 代表工作 (Featured Work)
 
-* **[cooptrack](https://github.com/Air-0000/cooptrack)** · 空地协同 3D 检测几何校正与自适应融合个人扩展插件。
+* **[adatrack](https://github.com/Air-0000/adatrack)** · 空地协同 3D 检测几何校正与自适应融合个人扩展插件。
 * **[OnSite-Transportation](https://github.com/Air-0000/OnSite-Transportation)** · 2026 OnSite 自动驾驶运输调度全国第 8 名（独立完成算法方案与全套代码）。
 * **[anbier-desktop-pet](https://github.com/Air-0000/anbier-desktop-pet)** · 跨平台桌面伴侣客户端，连接本地 GPT-SoVITS 语音合成服务。
 
